@@ -12,14 +12,12 @@ body {
 main {
     max-width: 600px;
     width: 100%;
-    margin-top: 24px;
-    margin-bottom: 24px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 24px auto;
 }
 
 section{
     margin: 24px 0;
+    border: 3px dotted orange;
     padding: 16px;
 }
 
